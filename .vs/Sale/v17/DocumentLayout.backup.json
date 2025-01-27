@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\herbe\\source\\repos\\Sale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB3A21D-386C-4B16-8BDA-443F2A19804F}|Sale.Tests\\Sale.Tests.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.tests\\saleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB3A21D-386C-4B16-8BDA-443F2A19804F}|Sale.Tests\\Sale.Tests.csproj|solutionrelative:sale.tests\\saleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0A2174-A2FC-4102-935F-C9AA19463B1C}|Sale.Infra\\Sale.Infra.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.infra\\saledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0A2174-A2FC-4102-935F-C9AA19463B1C}|Sale.Infra\\Sale.Infra.csproj|solutionrelative:sale.infra\\saledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0A2174-A2FC-4102-935F-C9AA19463B1C}|Sale.Infra\\Sale.Infra.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.infra\\sale.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B0A2174-A2FC-4102-935F-C9AA19463B1C}|Sale.Infra\\Sale.Infra.csproj|solutionrelative:sale.infra\\sale.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.domain\\salerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\salerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.domain\\saleitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\saleitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.domain\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.domain\\queuepayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\queuepayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.application\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|solutionrelative:sale.application\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.application\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|solutionrelative:sale.application\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.application\\inmemoryqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|solutionrelative:sale.application\\inmemoryqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.application\\iinmemoryqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|solutionrelative:sale.application\\iinmemoryqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|solutionrelative:sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|solutionrelative:sale\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.domain\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.domain\\updatesalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\updatesalerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sale.Infra",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\Sale.Infra.csproj",
+              "RelativeDocumentMoniker": "Sale.Infra\\Sale.Infra.csproj",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\Sale.Infra.csproj",
+              "RelativeToolTip": "Sale.Infra\\Sale.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T12:05:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InMemoryQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\InMemoryQueueService.cs",
+              "RelativeDocumentMoniker": "Sale.Application\\InMemoryQueueService.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\InMemoryQueueService.cs",
+              "RelativeToolTip": "Sale.Application\\InMemoryQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:25:16.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueuePayload.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\QueuePayload.cs",
+              "RelativeDocumentMoniker": "Sale.Domain\\QueuePayload.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\QueuePayload.cs",
+              "RelativeToolTip": "Sale.Domain\\QueuePayload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:52:44.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\Sale.cs",
+              "RelativeDocumentMoniker": "Sale.Domain\\Sale.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\Sale.cs",
+              "RelativeToolTip": "Sale.Domain\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:15:50.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\ISaleService.cs",
+              "RelativeDocumentMoniker": "Sale.Application\\ISaleService.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\ISaleService.cs",
+              "RelativeToolTip": "Sale.Application\\ISaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:27:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleItemRequest.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\SaleItemRequest.cs",
+              "RelativeDocumentMoniker": "Sale.Domain\\SaleItemRequest.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\SaleItemRequest.cs",
+              "RelativeToolTip": "Sale.Domain\\SaleItemRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:24:51.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\SaleService.cs",
+              "RelativeDocumentMoniker": "Sale.Application\\SaleService.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\SaleService.cs",
+              "RelativeToolTip": "Sale.Application\\SaleService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:11:24.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\SaleRequest.cs",
+              "RelativeDocumentMoniker": "Sale.Domain\\SaleRequest.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\SaleRequest.cs",
+              "RelativeToolTip": "Sale.Domain\\SaleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:23:46.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\SaleDbContext.cs",
+              "RelativeDocumentMoniker": "Sale.Infra\\SaleDbContext.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\SaleDbContext.cs",
+              "RelativeToolTip": "Sale.Infra\\SaleDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vxEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:12:56.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Tests\\SaleServiceTests.cs",
+              "RelativeDocumentMoniker": "Sale.Tests\\SaleServiceTests.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Tests\\SaleServiceTests.cs",
+              "RelativeToolTip": "Sale.Tests\\SaleServiceTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4v0QAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:40:31.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IInMemoryQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\IInMemoryQueueService.cs",
+              "RelativeDocumentMoniker": "Sale.Application\\IInMemoryQueueService.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\IInMemoryQueueService.cs",
+              "RelativeToolTip": "Sale.Application\\IInMemoryQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:51:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Program.cs",
+              "RelativeDocumentMoniker": "Sale\\Program.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Program.cs",
+              "RelativeToolTip": "Sale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:07:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Sale\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Sale\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:14:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\SaleItem.cs",
+              "RelativeDocumentMoniker": "Sale.Domain\\SaleItem.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\SaleItem.cs",
+              "RelativeToolTip": "Sale.Domain\\SaleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:15:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateSaleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\UpdateSaleRequest.cs",
+              "RelativeDocumentMoniker": "Sale.Domain\\UpdateSaleRequest.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\UpdateSaleRequest.cs",
+              "RelativeToolTip": "Sale.Domain\\UpdateSaleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T17:46:06.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\herbe\source\repos\Sale\Sale.Domain\bin\Debug\net8.0\Sale.Domain.deps.json
+C:\Users\herbe\source\repos\Sale\Sale.Domain\bin\Debug\net8.0\Sale.Domain.dll
+C:\Users\herbe\source\repos\Sale\Sale.Domain\bin\Debug\net8.0\Sale.Domain.pdb
+C:\Users\herbe\source\repos\Sale\Sale.Domain\obj\Debug\net8.0\Sale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herbe\source\repos\Sale\Sale.Domain\obj\Debug\net8.0\Sale.Domain.AssemblyInfoInputs.cache
+C:\Users\herbe\source\repos\Sale\Sale.Domain\obj\Debug\net8.0\Sale.Domain.AssemblyInfo.cs
+C:\Users\herbe\source\repos\Sale\Sale.Domain\obj\Debug\net8.0\Sale.Domain.csproj.CoreCompileInputs.cache
+C:\Users\herbe\source\repos\Sale\Sale.Domain\obj\Debug\net8.0\Sale.Domain.dll
+C:\Users\herbe\source\repos\Sale\Sale.Domain\obj\Debug\net8.0\refint\Sale.Domain.dll
+C:\Users\herbe\source\repos\Sale\Sale.Domain\obj\Debug\net8.0\Sale.Domain.pdb
+C:\Users\herbe\source\repos\Sale\Sale.Domain\obj\Debug\net8.0\ref\Sale.Domain.dll

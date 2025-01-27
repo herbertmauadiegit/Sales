@@ -1,0 +1,17 @@
+C:\Users\herbe\source\repos\Sale\Sale.Application\bin\Debug\net8.0\Sale.Application.deps.json
+C:\Users\herbe\source\repos\Sale\Sale.Application\bin\Debug\net8.0\Sale.Application.dll
+C:\Users\herbe\source\repos\Sale\Sale.Application\bin\Debug\net8.0\Sale.Application.pdb
+C:\Users\herbe\source\repos\Sale\Sale.Application\bin\Debug\net8.0\Sale.Domain.dll
+C:\Users\herbe\source\repos\Sale\Sale.Application\bin\Debug\net8.0\Sale.Infra.dll
+C:\Users\herbe\source\repos\Sale\Sale.Application\bin\Debug\net8.0\Sale.Domain.pdb
+C:\Users\herbe\source\repos\Sale\Sale.Application\bin\Debug\net8.0\Sale.Infra.pdb
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\Sale.Application.csproj.AssemblyReference.cache
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\Sale.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\Sale.Application.AssemblyInfoInputs.cache
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\Sale.Application.AssemblyInfo.cs
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\Sale.Application.csproj.CoreCompileInputs.cache
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\Sale.App.E72A59B5.Up2Date
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\Sale.Application.dll
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\refint\Sale.Application.dll
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\Sale.Application.pdb
+C:\Users\herbe\source\repos\Sale\Sale.Application\obj\Debug\net8.0\ref\Sale.Application.dll

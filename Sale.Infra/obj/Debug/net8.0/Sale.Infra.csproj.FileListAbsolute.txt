@@ -1,0 +1,15 @@
+C:\Users\herbe\source\repos\Sale\Sale.Infra\bin\Debug\net8.0\Sale.Infra.deps.json
+C:\Users\herbe\source\repos\Sale\Sale.Infra\bin\Debug\net8.0\Sale.Infra.dll
+C:\Users\herbe\source\repos\Sale\Sale.Infra\bin\Debug\net8.0\Sale.Infra.pdb
+C:\Users\herbe\source\repos\Sale\Sale.Infra\bin\Debug\net8.0\Sale.Domain.dll
+C:\Users\herbe\source\repos\Sale\Sale.Infra\bin\Debug\net8.0\Sale.Domain.pdb
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\Sale.Infra.csproj.AssemblyReference.cache
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\Sale.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\Sale.Infra.AssemblyInfoInputs.cache
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\Sale.Infra.AssemblyInfo.cs
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\Sale.Infra.csproj.CoreCompileInputs.cache
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\Sale.Infra.csproj.Up2Date
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\Sale.Infra.dll
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\refint\Sale.Infra.dll
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\Sale.Infra.pdb
+C:\Users\herbe\source\repos\Sale\Sale.Infra\obj\Debug\net8.0\ref\Sale.Infra.dll
