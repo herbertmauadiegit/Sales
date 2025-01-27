@@ -1,1 +1,68 @@
-/.vs
+# Ignore the build output directories
+/bin/
+/obj/
+
+# User-specific files
+.idea/
+.vscode/
+
+# ASP.NET Core development secrets
+secrets.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+[Dd]evelopment/
+
+# .NET Core and .NET Standard binaries
+*.dll
+*.exe
+*.pdb
+*.app
+*.xproj
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code directories and files
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Local History for IntelliJ IDEA
+.idea/
+
+# dotCover
+.idea/.idea.dotCover
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Core Environment Settings
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
