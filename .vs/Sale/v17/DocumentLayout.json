@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\herbe\\source\\repos\\Sale\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|solutionrelative:sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.application\\sale.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|solutionrelative:sale.application\\sale.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale\\sale.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|solutionrelative:sale\\sale.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|solutionrelative:sale\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|solutionrelative:sale\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECB3A21D-386C-4B16-8BDA-443F2A19804F}|Sale.Tests\\Sale.Tests.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.tests\\saleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECB3A21D-386C-4B16-8BDA-443F2A19804F}|Sale.Tests\\Sale.Tests.csproj|solutionrelative:sale.tests\\saleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,14 +67,6 @@
       "RelativeMoniker": "D:0:0:{35EB50EC-23E2-49DE-8931-FDCC59CC850A}|Sale.Application\\Sale.Application.csproj|solutionrelative:sale.application\\iinmemoryqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|solutionrelative:sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6722AEE-B251-4BB6-9E40-89F104A45429}|Sale\\Sale.Api.csproj|solutionrelative:sale\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|c:\\users\\herbe\\source\\repos\\sale\\sale.domain\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4866DE20-1977-4747-ADB3-32C42E4AA09E}|Sale.Domain\\Sale.Domain.csproj|solutionrelative:sale.domain\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,35 +82,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sale.Infra.csproj",
-              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\Sale.Infra.csproj",
-              "RelativeDocumentMoniker": "Sale.Infra\\Sale.Infra.csproj",
-              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\Sale.Infra.csproj",
-              "RelativeToolTip": "Sale.Infra\\Sale.Infra.csproj",
+              "DocumentIndex": 1,
+              "Title": "Sale.Application",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\Sale.Application.csproj",
+              "RelativeDocumentMoniker": "Sale.Application\\Sale.Application.csproj",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\Sale.Application.csproj",
+              "RelativeToolTip": "Sale.Application\\Sale.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-27T12:05:00.417Z"
+              "WhenOpened": "2025-01-27T18:53:26.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InMemoryQueueService.cs",
-              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\InMemoryQueueService.cs",
-              "RelativeDocumentMoniker": "Sale.Application\\InMemoryQueueService.cs",
-              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\InMemoryQueueService.cs",
-              "RelativeToolTip": "Sale.Application\\InMemoryQueueService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T11:25:16.105Z"
+              "DocumentIndex": 2,
+              "Title": "Sale.Api",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Sale.Api.csproj",
+              "RelativeDocumentMoniker": "Sale\\Sale.Api.csproj",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Sale.Api.csproj",
+              "RelativeToolTip": "Sale\\Sale.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T18:53:15.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\appsettings.json",
+              "RelativeDocumentMoniker": "Sale\\appsettings.json",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\appsettings.json",
+              "RelativeToolTip": "Sale\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T18:52:34.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "QueuePayload.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\QueuePayload.cs",
               "RelativeDocumentMoniker": "Sale.Domain\\QueuePayload.cs",
@@ -110,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Sale.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\Sale.cs",
               "RelativeDocumentMoniker": "Sale.Domain\\Sale.cs",
@@ -122,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ISaleService.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\ISaleService.cs",
               "RelativeDocumentMoniker": "Sale.Application\\ISaleService.cs",
@@ -134,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "SaleItemRequest.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\SaleItemRequest.cs",
               "RelativeDocumentMoniker": "Sale.Domain\\SaleItemRequest.cs",
@@ -146,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "SaleService.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\SaleService.cs",
               "RelativeDocumentMoniker": "Sale.Application\\SaleService.cs",
@@ -158,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "SaleRequest.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\SaleRequest.cs",
               "RelativeDocumentMoniker": "Sale.Domain\\SaleRequest.cs",
@@ -170,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "SaleDbContext.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\SaleDbContext.cs",
               "RelativeDocumentMoniker": "Sale.Infra\\SaleDbContext.cs",
@@ -183,19 +210,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Program.cs",
+              "RelativeDocumentMoniker": "Sale\\Program.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Program.cs",
+              "RelativeToolTip": "Sale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:07:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InMemoryQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\InMemoryQueueService.cs",
+              "RelativeDocumentMoniker": "Sale.Application\\InMemoryQueueService.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\InMemoryQueueService.cs",
+              "RelativeToolTip": "Sale.Application\\InMemoryQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:25:16.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SaleServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Tests\\SaleServiceTests.cs",
               "RelativeDocumentMoniker": "Sale.Tests\\SaleServiceTests.cs",
               "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Tests\\SaleServiceTests.cs",
               "RelativeToolTip": "Sale.Tests\\SaleServiceTests.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAD4v0UAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4vzYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T12:40:31.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Sale\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Sale\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:14:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sale.Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\Sale.Infra.csproj",
+              "RelativeDocumentMoniker": "Sale.Infra\\Sale.Infra.csproj",
+              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\Sale.Infra.csproj",
+              "RelativeToolTip": "Sale.Infra\\Sale.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T12:05:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IInMemoryQueueService.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Application\\IInMemoryQueueService.cs",
               "RelativeDocumentMoniker": "Sale.Application\\IInMemoryQueueService.cs",
@@ -207,31 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Program.cs",
-              "RelativeDocumentMoniker": "Sale\\Program.cs",
-              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Program.cs",
-              "RelativeToolTip": "Sale\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:07:09.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SalesController.cs",
-              "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Controllers\\SalesController.cs",
-              "RelativeDocumentMoniker": "Sale\\Controllers\\SalesController.cs",
-              "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale\\Controllers\\SalesController.cs",
-              "RelativeToolTip": "Sale\\Controllers\\SalesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:14:27.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "SaleItem.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\SaleItem.cs",
               "RelativeDocumentMoniker": "Sale.Domain\\SaleItem.cs",
@@ -243,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "UpdateSaleRequest.cs",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Domain\\UpdateSaleRequest.cs",
               "RelativeDocumentMoniker": "Sale.Domain\\UpdateSaleRequest.cs",

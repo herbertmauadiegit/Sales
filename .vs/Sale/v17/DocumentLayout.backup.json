@@ -75,15 +75,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Sale.Infra",
+              "Title": "Sale.Infra.csproj",
               "DocumentMoniker": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\Sale.Infra.csproj",
               "RelativeDocumentMoniker": "Sale.Infra\\Sale.Infra.csproj",
               "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Infra\\Sale.Infra.csproj",
               "RelativeToolTip": "Sale.Infra\\Sale.Infra.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-27T12:05:00.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T12:05:00.417Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "Sale.Application\\InMemoryQueueService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T11:25:16.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T11:25:16.105Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "Sale.Domain\\QueuePayload.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T11:52:44.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T11:52:44.49Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "Sale.Domain\\Sale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:15:50.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:15:50.601Z"
             },
             {
               "$type": "Document",
@@ -134,8 +130,7 @@
               "RelativeToolTip": "Sale.Application\\ISaleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:27:41.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:27:41.849Z"
             },
             {
               "$type": "Document",
@@ -147,8 +142,7 @@
               "RelativeToolTip": "Sale.Domain\\SaleItemRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T22:24:51.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T22:24:51.162Z"
             },
             {
               "$type": "Document",
@@ -160,8 +154,7 @@
               "RelativeToolTip": "Sale.Application\\SaleService.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:11:24.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:11:24.301Z"
             },
             {
               "$type": "Document",
@@ -173,8 +166,7 @@
               "RelativeToolTip": "Sale.Domain\\SaleRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T22:23:46.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T22:23:46.916Z"
             },
             {
               "$type": "Document",
@@ -186,8 +178,7 @@
               "RelativeToolTip": "Sale.Infra\\SaleDbContext.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAD4vxEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:12:56.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:12:56.986Z"
             },
             {
               "$type": "Document",
@@ -197,7 +188,7 @@
               "RelativeDocumentMoniker": "Sale.Tests\\SaleServiceTests.cs",
               "ToolTip": "C:\\Users\\herbe\\source\\repos\\Sale\\Sale.Tests\\SaleServiceTests.cs",
               "RelativeToolTip": "Sale.Tests\\SaleServiceTests.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAD4v0QAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4v0UAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T12:40:31.382Z",
               "EditorCaption": ""
@@ -212,8 +203,7 @@
               "RelativeToolTip": "Sale.Application\\IInMemoryQueueService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T11:51:22.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T11:51:22.58Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "Sale\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:07:09.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:07:09.023Z"
             },
             {
               "$type": "Document",
@@ -238,8 +227,7 @@
               "RelativeToolTip": "Sale\\Controllers\\SalesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:14:27.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:14:27.042Z"
             },
             {
               "$type": "Document",
