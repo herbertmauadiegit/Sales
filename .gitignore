@@ -56,3 +56,6 @@ artifacts/
 appsettings.Development.json
 appsettings.Staging.json
 appsettings.Production.json
+/.vs
+/Sale.Application/bin
+/Sale.Application/obj
